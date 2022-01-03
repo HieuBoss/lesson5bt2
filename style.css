@@ -1,0 +1,102 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#tong{
+	background-color: pink;
+	width: 100%;
+	height: 1200px;
+}
+.tren{
+	background-color: white;
+	width: 100%;
+	height: 20%;
+	float: left;
+}
+.duoi{
+	background-color: white;
+	width: 100%;
+	height: 80%;
+	float: left;
+}	
+.tren_1{
+	background-color: black;
+	width: 100%;
+	height: 70%;
+	float: left;
+}
+.tren_2{
+	background-color: #3385ff;
+	width: 100%;
+	height: 25%;
+	margin-top: 6px;
+	float: left;
+}
+.trai{
+	background-color: white;
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+.cot1{
+	background-color: white;
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+.cot2{
+	background-color: white;
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.phai{
+	background-color: white;
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.cot3{
+	background-color: white;
+	width: 70%;
+	height: 100%;
+	float: left;
+}
+.cot4{
+	background-color: white;
+	width: 30%;
+	height: 100%;
+	float: left;
+}
+.tren_2 ul {
+	height: 60px;
+  list-style-type: none;
+  display: flex;
+  margin:0 0 0 200px;
+  padding: 0px;
+}
+.tren_2 ul li {
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: white 1px solid;
+}
+.tren_2 li:hover {
+  background-color: #0039e6;
+  color: white;
+}
+.letter{
+	padding: 10px;
+	font-size: 20px;
+}
+.letter:hover{
+	color: red;
+}
+.item{
+	padding: 10px;
+	display: flex;
+}
+.item:hover{
+	color: red;
+}
